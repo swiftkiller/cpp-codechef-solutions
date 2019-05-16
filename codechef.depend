@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\spars\desktop\programs\codechef\main.cpp
+	<iostream>
+
+1535720486 source:c:\users\spars\desktop\programs\codechef\temp.cpp
+	<iostream>
+	<conio.h>
+
